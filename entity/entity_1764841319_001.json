@@ -1,0 +1,19 @@
+{
+  "data": [
+    {
+      "entity_id": "demo_salon_01",
+      "name": "Mon Super Salon (Demo)",
+      "telephone": "+33102030405",
+      "url": "https://www.mon-salon-demo.com",
+      "location": {
+        "address": {
+          "country": "FR",
+          "locality": "Paris",
+          "postal_code": "75001",
+          "street_address": "10 Rue de l'Exemple"
+        }
+      }
+    }
+  ]
+}
+

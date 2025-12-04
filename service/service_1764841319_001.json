@@ -1,0 +1,33 @@
+{
+  "data": [
+    {
+      "merchant_id": "demo_salon_01",
+      "service_id": "srv-001",
+      "localized_service_name": {
+        "value": "Massage Relaxant 1h"
+      },
+      "localized_service_category": {
+        "value": "Bien-être"
+      },
+      "localized_service_description": {
+        "value": "Un massage complet aux huiles essentielles."
+      },
+      "service_price": {
+        "price_interpretation": "INTERPRETATION_EXACT",
+        "min_price": {
+          "price_micros": 60000000,
+          "currency_code": "EUR"
+        }
+      },
+      "service_duration": {
+        "duration_interpretation": "INTERPRETATION_EXACT",
+        "min_duration_sec": 3600
+      },
+      "action_link": [
+        {
+          "url": "https://www.mon-salon-demo.com/reservation?service=massage"
+        }
+      ]
+    }
+  ]
+}

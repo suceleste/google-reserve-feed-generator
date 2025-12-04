@@ -1,0 +1,14 @@
+{
+  "data": [
+    {
+      "entity_id": "demo_salon_01",
+      "link_id": "link_demo_01",
+      "url": "https://www.mon-salon-demo.com/reservation",
+      "actions": [
+        {
+          "appointment_info": {}
+        }
+      ]
+    }
+  ]
+}
